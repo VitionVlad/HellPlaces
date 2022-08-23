@@ -9,3 +9,4 @@ in this repository i also included glslc, used to compile shaders from glsl to s
 Code is so big because of dev code parts.  
 .Lucifer and .Hell Files are simple text files with renamed extension.  
 Have fun!
+Executables for windows and linux are in the repository
